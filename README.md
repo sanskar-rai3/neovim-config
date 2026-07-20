@@ -26,7 +26,7 @@ Feel free to copy, fork, or steal any part of this for your own setup. No permis
 **Atmospheric Colorscheme & Visual Syntax Highlighting**
 ![Code Editing](Previews/preview2.png)
 
-**File Tree & Window Management Layout**
+**Auto Completion**
 ![File Navigation](Previews/preview3.png)
 
 ---
@@ -91,7 +91,7 @@ Everything is modular by design:
 
 ## License
 
-This configuration is **free to copy, modify, and use** for any purpose — personal or commercial, no license file, no attribution, no strings attached.
+This configuration is **free to copy, modify, and use** for any purpose — personal or commercial, no license file, no attribution.
 
 ---
 
