@@ -42,7 +42,7 @@ Feel free to copy, fork, or steal any part of this for your own setup. No permis
 
 2. **Clone this repository:**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git ~/.config/nvim
+   git clone https://github.com/sanskar-rai3/Neovim-Config.git ~/.config/nvim
    ```
 
 3. **Launch Neovim** — `lazy.nvim` will bootstrap itself and install all plugins automatically:
