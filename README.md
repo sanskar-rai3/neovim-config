@@ -1,20 +1,20 @@
 # Personal Neovim Configuration
 
-A personal, modular, and performant Neovim configuration built on **Lazy.nvim**. Crafted for a dark, minimalist, and atmospheric development experience — with native LSP, fuzzy finding, and smooth cursor animations.
+A Neovim configuration built on **Lazy.nvim**. Crafted for a dark, minimalist, and atmospheric development experience with native LSP, fuzzy finding, and smooth cursor animations.
 
-Feel free to copy, fork, or steal any part of this for your own setup. No permission needed, no attribution required — just take what's useful.
+Feel free to copy, fork, or steal any part of this for your own setup. No permission needed, no attribution required, just take what's useful.
 
 ---
 
 ## Highlights
 
-- **Fast startup** — lazy-loaded plugins via `lazy.nvim`
-- **Native LSP** — configured language servers with sane defaults
-- **Fuzzy finding** — Telescope for files, grep, and buffers
-- **File tree** — Neo-tree side panel for project navigation
-- **Atmospheric theme** — TokyoNight-based colorscheme, tuned for low-light coding
-- **Smooth UX** — smear-cursor animations, clean statusline, dashboard home screen
-- **Fully modular** — every plugin lives in its own file for easy editing
+- **Fast startup** - lazy-loaded plugins via `lazy.nvim`
+- **Native LSP** - configured language servers with sane defaults
+- **Fuzzy finding** - Telescope for files, grep, and buffers
+- **File tree** - Neo-tree side panel for project navigation
+- **Atmospheric theme** - TokyoNight/Catcuppin based colorscheme, tuned for low-light coding
+- **Smooth UX** - smear-cursor animations, clean statusline, dashboard home screen
+- **Fully modular** - every plugin lives in its own file for easy editing
 
 ---
 
@@ -45,7 +45,7 @@ Feel free to copy, fork, or steal any part of this for your own setup. No permis
    git clone https://github.com/<your-username>/<your-repo>.git ~/.config/nvim
    ```
 
-3. **Launch Neovim** — `lazy.nvim` will bootstrap itself and install all plugins automatically:
+3. **Launch Neovim** - `lazy.nvim` will bootstrap itself and install all plugins automatically:
    ```bash
    nvim
    ```
@@ -73,7 +73,7 @@ Feel free to copy, fork, or steal any part of this for your own setup. No permis
 
 ## Keymaps
 
-Custom keybindings live in [`lua/config/keymaps.lua`](lua/config/keymaps.lua) — check there for the full, up-to-date list.
+Custom keybindings live in [`lua/config/keymaps.lua`](lua/config/keymaps.lua). Check there for the full, up-to-date list.
 
 ---
 
@@ -91,10 +91,10 @@ Everything is modular by design:
 
 ## License
 
-This configuration is **free to copy, modify, and use** for any purpose — personal or commercial, no license file, no attribution.
+This configuration is **free to copy, modify, and use** for any purpose, no license file, no attribution.
 
 ---
 
 ## Acknowledgements
 
-Built on top of the excellent work from the Neovim plugin ecosystem, including `lazy.nvim`, `telescope.nvim`, `neo-tree.nvim`, and the TokyoNight colorscheme.
+Built on top of the excellent work from the Neovim plugin ecosystem, including `lazy.nvim`, `telescope.nvim`, `neo-tree.nvim`, and the TokyoNight/Catpuccin colorscheme.
